@@ -1,0 +1,9 @@
+model,magnitude,location,displacement,probexceed_with_full_aleatory
+d_md,7,0.5,0.01,0.99995734
+d_md,7,0.5,0.03,0.999329873
+d_md,7,0.5,0.1,0.988207008
+d_md,7,0.5,0.3,0.887364491
+d_md,7,0.5,1,0.419299291
+d_md,7,0.5,3,0.03573926
+d_md,7,0.5,10,4.40E-05
+d_md,7,0.5,30,6.13E-10

@@ -1,0 +1,17 @@
+﻿magnitude,style,mu,sigma
+5,All,-1.36,0.42
+6,All,-0.54,0.42
+7,All,0.28,0.42
+8,All,1.1,0.42
+5,Strike-Slip,-1.88,0.34
+6,Strike-Slip,-0.85,0.34
+7,Strike-Slip,0.18,0.34
+8,Strike-Slip,1.21,0.34
+5,Reverse,-0.39,0.42
+6,Reverse,-0.1,0.42
+7,Reverse,0.19,0.42
+8,Reverse,0.48,0.42
+5,Normal,-1.45,0.38
+6,Normal,-0.56,0.38
+7,Normal,0.33,0.38
+8,Normal,1.22,0.38
