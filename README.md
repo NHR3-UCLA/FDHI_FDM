@@ -1,11 +1,13 @@
 # FDHI_FDM
-[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
 
 ## Overview
-Python implementations of Fault Displacement Models (FDMs) from the Fault Displacement Hazard Initiative (FDHI) Project
+Python implementations of Fault Displacement Models (FDMs) from the Fault Displacement Hazard Initiative (FDHI) Project.
 
-## Development Status
-A Python package is in development. The current code will be refactored into an object-oriented framework, but otherwise the functionality will not change appreciably. Check back soon!
+## Python Package
+The `fdhpy`  Python package is now available! See the [Documentation](https://fdhpy.readthedocs.io/en/latest/readme.html) for package information and installation instructions. The source code for the package is available in [this repository](https://github.com/asarmy/fdhpy).
+
+## Legacy code
+The initial release of source code, prior to refactoring for the `fdhpy` package, can be found on the [legacy branch](https://github.com/NHR3-UCLA/FDHI_FDM/tree/legacy). The legacy code is no longer maintained.
 
 ## Credits
 Code Development by Alex Sarmiento with direct contributions from Grigoris Lavrentiadis, Albert Kottke, Nicolas Kuehn, and Arash Zandieh.
