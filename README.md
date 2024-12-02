@@ -1,6 +1,9 @@
 # FDHI_FDM
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
 
+> [!IMPORTANT]  
+> This is the [legacy branch](https://github.com/NHR3-UCLA/FDHI_FDM/tree/legacy) and code will not be maintained after December 1, 2024. Use the [main branch](https://github.com/NHR3-UCLA/FDHI_FDM) for the current and maintained version.
+
 ## Overview
 Python implementations of Fault Displacement Models (FDMs) from the Fault Displacement Hazard Initiative (FDHI) Project
 
